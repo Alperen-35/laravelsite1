@@ -17,3 +17,5 @@ yapılan güncellemeler ve ardında repoya eklemek için
 git commit -m "commit cümlesi"
 git add .
 git push -u origin main
+
+lafşlmasşlmşldasm
